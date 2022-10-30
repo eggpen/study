@@ -1,2 +1,2 @@
-# i like study
-i like study
+#  study
+ study
